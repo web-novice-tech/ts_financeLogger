@@ -1,0 +1,24 @@
+{
+  "name": "ts_finance-logger",
+  "version": "1.0.0",
+  "description": "- 言語：TypeScript - 目的：簡単なアウトプットを作成し、TypeScriptを基礎から学ぶ",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass src/styles.scss:public/styles.css && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nk-front-end/ts_financeLogger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nk-front-end/ts_financeLogger/issues"
+  },
+  "homepage": "https://github.com/nk-front-end/ts_financeLogger#readme",
+  "devDependencies": {
+    "sass": "^1.35.1"
+  },
+  "dependencies": {}
+}
