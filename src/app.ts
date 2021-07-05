@@ -2,6 +2,7 @@ import { Invoice } from "./classes/Invoice";
 import { ListTemplate } from "./classes/ListTemplate";
 import { Payment } from "./classes/Payment";
 import { HasFormatter } from "./interfaces/HasFormatter";
+import "./styles.scss";
 
 const form = document.querySelector('.new-item-form') as HTMLFormElement;
 
